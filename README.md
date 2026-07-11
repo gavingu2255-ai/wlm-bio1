@@ -1,4 +1,4 @@
-# Topology-Induced Scale Axis for scRNA-seq
+# Topology-Induced Scale Axis for scRNA-seq (Project Gold Pan)
 
 Code for: "A Topology-Induced Scale Axis for Multi-Scale Annealing in scRNA-seq Co-Expression Networks"
 

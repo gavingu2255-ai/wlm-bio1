@@ -1,0 +1,54 @@
+{
+  "data": "TS_Liver.h5ad -- tissue=liver (5007 cells, 2000 genes, 13 cell types)",
+  "scale_axis": {
+    "lambda_range": [
+      0.0,
+      169.5831296598275
+    ],
+    "s_range": [
+      0.0,
+      5.139222741890129
+    ],
+    "hl_ratio": 2.4123015071314615
+  },
+  "signal_structure": {
+    "F_celltype_low_lam": 208.29064639139332,
+    "F_celltype_high_lam": 43.33085312875544,
+    "ct_F_ratio": 4.806982243471781,
+    "intra_noise_ratio": 1.314971384837112,
+    "confirmed": true
+  },
+  "flow_preservation": {
+    "sep_T0": 0.2742877186991243,
+    "sep_T12": 0.2935803130368553,
+    "sep_retention": 1.0703370695128473,
+    "energy_drop_pct": 63.567641676531494,
+    "energy_monotone": true,
+    "n_marker_up": 4,
+    "n_marker_total": 4,
+    "confirmed": true
+  },
+  "marker_genes_found": "4/31",
+  "marker_genes_flow": {
+    "ALB": {
+      "F_before": 642.701416015625,
+      "F_after": 731.4714636661952,
+      "s": 5.036904656263842
+    },
+    "HNF4A": {
+      "F_before": 324.4108581542969,
+      "F_after": 481.5732948615288,
+      "s": 4.062153245874015
+    },
+    "STAB2": {
+      "F_before": 187.1933135986328,
+      "F_after": 188.2350978057823,
+      "s": 4.867184902968217
+    },
+    "CLEC4G": {
+      "F_before": 348.65582275390625,
+      "F_after": 349.88849499741764,
+      "s": 4.49012661270258
+    }
+  }
+}
